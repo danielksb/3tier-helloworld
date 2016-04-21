@@ -1,14 +1,14 @@
 # 3tier-helloworld
 
 Write an application which helps to organize and manage (purchase) orders.
-A typical worflow starts with a customer placing an order, which consists of a single product. The customer chooses this product from a list of preconfigured products, which is maintained by the product manager. Once a product is ordered, a sales agent may see the order, edit it and marks it ready for delivery. The distributor delivers the product and closes the order.
+A typical worflow starts with a customer placing an order, which consists of a single product. The customer chooses this product from a preconfigured list, which is maintained by the product manager. Once a product is ordered, a sales agent may see the order, edit it and marks it ready for delivery. The distributor delivers the product and closes the order.
 
 ## Personae dramatis
 
 * Customer
-  * places orders
+  * orders a product
 * Product Manager
-  * organises list of available products
+  * maintains list of available products
 * Sales Agent
   * validates orders, may also change an order
 * Distributor
