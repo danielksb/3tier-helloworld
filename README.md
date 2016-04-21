@@ -1,6 +1,7 @@
 # 3tier-helloworld
 
-Write an application with allows customers to place orders via a web interface. An order consists of a single product which can be selected from list preconfigured by a product manager. Once a product is ordered, a sales agent may see the order, edit it and marks it ready for delivery. The distributor delivers the product and closes the order.
+Write an application which helps to organize and manage (purchase) orders.
+A typical worflow starts with a customer placing an order, which consists of a single product. The customer chooses this product from a list of preconfigured products, which is maintained by the product manager. Once a product is ordered, a sales agent may see the order, edit it and marks it ready for delivery. The distributor delivers the product and closes the order.
 
 ## Personae dramatis
 
